@@ -1,0 +1,7 @@
+{
+	"api": {
+		"echo": {
+			":controller": "echo.php"
+		}
+	}
+}
